@@ -1,0 +1,15 @@
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\bin\Debug\Solitaire.exe
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\bin\Debug\Solitaire.pdb
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\bin\Debug\Apex.dll
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\bin\Debug\SolitaireGames.dll
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\bin\Debug\SolitaireGames.pdb
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\obj\x86\Debug\Solitaire.csprojResolveAssemblyReference.cache
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\obj\x86\Debug\MainWindow.baml
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\obj\x86\Debug\App.g.cs
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\obj\x86\Debug\Solitaire_MarkupCompile.cache
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\obj\x86\Debug\Solitaire.g.resources
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\obj\x86\Debug\Solitaire.Properties.Resources.resources
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\obj\x86\Debug\Solitaire.csproj.GenerateResource.Cache
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\obj\x86\Debug\Solitaire.exe
+C:\Users\Radanovic\Desktop\Code\Solitaire\Solitaire\obj\x86\Debug\Solitaire.pdb
